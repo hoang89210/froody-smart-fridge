@@ -16,7 +16,7 @@
 - **Expiry Track**: Alert hỏng dựa trên days.
 
 ## 🛠 Quick Start
-1. Clone: `git clone https://github.com/[username]/froody-smart-fridge.git`
+1. Clone: `git clone https://github.com/hoang89210/froody-smart-fridge.git`
 2. Install: `pip install -r requirements.txt`
 3. Crawl: `python src/crawl/crawl_nutrition.py --query "rau bina"`
 4. Train: `python src/train/train_model.py --epochs 10`
